@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Twilight Sparkle",
+    "town": "Ponyville",
+    "element": "Magic"
+  },
+  {
+    "id": 2,
+    "name": "Pinkie Pie",
+    "town": "Ponyville",
+    "element": "Laughter"
+  },
+  {
+    "id": 3,
+    "name": "Celestia",
+    "town": "Canterlot",
+    "element": "No Element"
+  }
+]
